@@ -1,9 +1,16 @@
 # TerrainFloodSense: Improving Seamless Flood Mapping with Cloudy Satellite Imagery via Water Occurrence and Terrain Data Fusion
-Reference:
+Accurate monitoring of inundation extents during floods is crucial for disaster management and impact assessment. While remote sensing can provide strong support for flood monitoring, optical satellite images often face significant challenges due to weather conditions and infrequent revisits, particularly in cloudy and rainy regions. To address this limitation and achieve seamless flood mapping with cloudy satellite images, we propose TerrainFloodSense, a novel method that fuses water occurrence with terrain data to enhance the reconstruction of cloud-covered flooding areas, especially under extreme and unprecedented flood scenarios. 
+
+**📝Publications:**
 
 Zhiwei Li, Shaofen Xu, Qihao Weng. TerrainFloodSense: Improving Seamless Flood Mapping with Cloudy Satellite Imagery via Water Occurrence and Terrain Data Fusion. 2025. (In Revision)
 
+<img src="https://raw.githubusercontent.com/dr-lizhiwei/TerrainFloodSense/main/TerrainFloodSense Overview.jpg" style="zoom:100%;" />
 
+<br>
+
+
+**💻Code**:
 
 ### 1. Generation of Enhanced Water Occurrence Data via Multi-Source Data Fusion
 
